@@ -1,4 +1,4 @@
-# **Live Stream App**
+# **Live Stream Yourself App**
 This is a **Next.js** project that allows users to **log in with Google and live stream using their camera**. It uses **Firebase Authentication** for login and **Agora RTC** for real-time video streaming.
 
 ## Features
